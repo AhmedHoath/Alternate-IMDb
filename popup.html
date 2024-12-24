@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+
+<script>
+    fetch('http://127.0.0.1:5000/movies')
+    .then(response => {
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        return response.json();
+    })
+    .then(data => {
+        data.forEach(movie => {
+            document.body.innerHTML += `<p>${movie.title} (${movie.year})</p>`;
+        });
+    })
+    .catch(error => console.error('Fetch Error:', error));
+
+</script>
