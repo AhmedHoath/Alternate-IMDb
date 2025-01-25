@@ -1,4 +1,4 @@
-Movie Reviews by Title | A
+-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | A
 Abandon
 [2002] [PG-13] – 4.4.4
 Abduction
@@ -658,7 +658,7 @@ Awakening, The
 Away We Go
 [2009] [R] – 8.2.6
 
-Movie Reviews by Title | B
+-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | B
 Babe
 [1995] [G] – 0.2.1
 Babel
@@ -1616,7 +1616,7 @@ Bye Bye Man, The
 By the Sea
 [2015] [R] – 8.3.6
 
-Movie Reviews by Title | C
+-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | C
 Cabin Boy
 [1994] [PG-13] – 3.2.4
 Cabin Fever
@@ -2350,7 +2350,7 @@ Cutting Edge, The
 Cyrano
 [2021] [PG-13] – 3.5.3
 
-Movie Reviews by Title | D
+-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | D
 Daddio
 [2024] [R] – 8.2.10
 Daddy Day Camp
@@ -2974,7 +2974,7 @@ Duplicity
 Dylan Dog: Dead of Night
 [2011] [PG-13] – 5.8.4
 
-Movie Reviews by Title | E
+-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | E
 Eagle, The
 [2011] [PG-13] – 2.8.4
 Eagle Eye
@@ -3316,7 +3316,7 @@ Eyes of My Mother, The
 Eyes of Tammy Faye, The
 [2021] [PG-13] – 5.2.3
 
-Movie Reviews by Title | F
+-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | F
 Fabelmans, The
 [2022] [PG-13] – 3.4.5
 Fabulous Four, The
@@ -3920,7 +3920,7 @@ Fury
 Fury Within, The
 [1998] [PG-13] – 1.4.3
 
-Movie Reviews by Title | G
+-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | G
 Gainsbourg: A Heroic Life
 [2011] [NR] – 8.3.5
 Galaxy Quest
@@ -4420,7 +4420,7 @@ Gunpowder Milkshake
 Guy Ritchie’s the Covenant
 [2023] [R] – 1.7.9
 
-Movie Reviews by Title | H
+-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | H
 Hackers
 [1995] [PG-13] – 4.2.5
 Hacksaw Ridge
@@ -5060,7 +5060,7 @@ Hyena
 Hypnotic
 [2023] [R] – 3.6.4
 
-Movie Reviews by Title | I
+-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | I
 I Am
 [2011] [NR] – 2.6.2
 I Am David
@@ -5486,7 +5486,7 @@ I’ve Got Issues
 I’ve Loved You So Long
 [2008] [PG-13] – 4.5.4
 
-Movie Reviews by Title | J
+-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | J
 Jack
 [1996] [PG-13] – 2.2.4
 Jackal, The
@@ -5766,7 +5766,7 @@ Just Visiting
 Just Wright
 [2010] [PG] – 4.1.3
 
-Movie Reviews by Title | K
+-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | K
 Kalifornia
 [1993] [R] – 6.10.5
 Kandahar
@@ -5966,7 +5966,7 @@ Kung Fu Panda 4
 Kung Pow!: Enter the Fist
 [2002] [PG-13] – 4.6.3
 
-Movie Reviews by Title | L
+-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | L
 Labor Day
 [2014] [PG-13] – 5.5.2
 Labyrinth of Lies
@@ -6552,7 +6552,7 @@ Lust, Caution
 Luther: The Fallen Sun
 [2023] [R] – 4.7.8
 
-Movie Reviews by Title | M
+-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | M
 Ma
 [2019] [R] – 6.7.8
 Mac
@@ -7442,7 +7442,7 @@ My Super Ex-Girlfriend
 Myth of Fingerprints, The
 [1997] [R] – 6.2.5
 
-Movie Reviews by Title | N
+-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | N
 Nacho Libre
 [2006] [PG] – 3.4.3
 Naked Gun 33 1/3: The Final Insult
@@ -7752,7 +7752,7 @@ Nutty Professor, The
 Nutty Professor II: The Klumps
 [2000] [PG-13] – 7.5.6
 
-Movie Reviews by Title | O
+-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | O
 O
 [2001] [R] – 6.6.9
 Oath, The
@@ -8008,7 +8008,7 @@ Over the Hedge
 Over the Moon
 [2020] [PG] – 1.3.1
 
-Movie Reviews by Title | P
+-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | P
 Pacific Rim
 [2013] [PG-13] – 2.7.4
 Pacific Rim: Uprising
@@ -8602,7 +8602,7 @@ Puss in Boots
 Puss in Boots: The Last Wish
 [2022] [PG] – 1.3.3
 
-Movie Reviews by Title | Q
+-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | Q
 Quantum of Solace
 [2008] [PG-13] – 5.7.4
 Quarantine
@@ -8648,7 +8648,7 @@ Quills
 Quiz Lady
 [2023] [R] – 3.3.5
 
-Movie Reviews by Title | R
+-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | R
 Rabbit Hole
 [2010] [PG-13] – 2.4.5
 Race
@@ -9130,7 +9130,7 @@ Rushmore
 Rust and Bone
 [2012] [R] – 8.6.6
 
-Movie Reviews by Title | S
+-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | S
 Sabotage
 [2014] [R] – 7.9.10
 Safe
@@ -10366,7 +10366,7 @@ Synchronicity
 Synecdoche, New York
 [2008] [R] – 8.6.7
 
-Movie Reviews by Title | T
+-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | T
 Table 19
 [2017] [PG-13] – 5.2.5
 Tadpole
@@ -11100,7 +11100,7 @@ Tyler Perry’s The Family That Preys
 Tyler Perry’s Why Did I Get Married Too?
 [2010] [PG-13] – 5.4.4
 
-Movie Reviews by Title | U
+-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | U
 U-571
 [2000] [PG-13] – 1.6.4
 Uglies
@@ -11268,7 +11268,7 @@ U.S. Marshals
 Usual Suspects, The
 [1995] [R] – 2.7.9
 
-Movie Reviews by Title | V
+-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | V
 Vacancy
 [2007] [R] – 5.8.7
 Vacation
@@ -11388,7 +11388,7 @@ Vox Lux
 Voyagers
 [2021] [PG-13] – 4.6.1
 
-Movie Reviews by Title | W
+-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | W
 W.
 [2008] [PG-13] – 2.5.5
 Wackness, The
@@ -11920,7 +11920,7 @@ Wrong Missy, The
 Wrong Turn
 [2003] [R] – 3.10.5
 
-Movie Reviews by Title | X
+-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | X
 X
 [2022] [R] – 9.8.6
 X-Files, The
@@ -11946,7 +11946,7 @@ XXX
 xXx: Return of Xander Cage
 [2017] [PG-13] – 4.6.5
 
-Movie Reviews by Title | Y
+-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | Y
 Year of the Comet
 [1992] [PG-13] – 3.3.0
 Year of the Dog
@@ -12024,7 +12024,7 @@ You Were Never Really Here
 Y2K
 [2024] [R] – 6.8.10
 
-Movie Reviews by Title | Z
+-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | Z
 Zack and Miri Make a Porno
 [2008] [R] – 10.2.10
 Zack Snyder’s Justice League

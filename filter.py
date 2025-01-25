@@ -1,4 +1,5 @@
 from bs4 import BeautifulSoup
+import re
 
 # Load your HTML content
 with open("filtered_movies.html", "r", encoding="utf-8") as file:
@@ -18,7 +19,8 @@ with open("extracted_titles.txt", "w", encoding="utf-8") as file:
     for div in et_pb_texts:
         file.write(div.get_text(separator="\n", strip=True) + "\n")
 
-from bs4 import BeautifulSoup
+
+
 
 # Load your HTML content
 with open("filtered_movies.html", "r", encoding="utf-8") as file:
@@ -79,3 +81,38 @@ def remove_time_from_files():
 
 # Call the function to clean the files
 remove_time_from_files()
+
+
+
+
+
+
+
+def add_line_separator_to_organizers():
+    # Read extracted_titles.txt and extracted_links.txt
+    with open("extracted_titles.txt", "r", encoding="utf-8") as file:
+        titles = file.readlines()
+
+    with open("extracted_links.txt", "r", encoding="utf-8") as file:
+        links = file.readlines()
+
+    # Add "---------------" before letter organizers in titles
+    with open("extracted_titles.txt", "w", encoding="utf-8") as file:
+        for title in titles:
+            # Match "Movie Reviews by Title | LETTER" and add "---------------" before if found
+            if re.match(r"Movie Reviews by Title \| [A-Za-z]", title):
+                title = "-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-" + title.strip()+"\n"  # Prepend "---------------" before the title
+            file.write(title)
+
+    # Add "---------------" before letter organizers in links
+    with open("extracted_links.txt", "w", encoding="utf-8") as file:
+        for link in links:
+            # Match "Movie Reviews by Title | LETTER" and add "---------------" before if found
+            if re.match(r"Movie Reviews by Title \| [A-Za-z]", link + "\n"):
+                link = "-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-" + link.strip()+"\n"  # Prepend "---------------" before the link
+            file.write(link)
+
+    print("Added '-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-' before letter organizers in both files.")
+
+# Call the function to add separators to letter organizers
+add_line_separator_to_organizers()
