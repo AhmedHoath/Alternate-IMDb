@@ -51,3 +51,31 @@ with open("extracted_links.txt", "w", encoding="utf-8") as file:
 
 print("\nExtracted content saved to extracted_links.txt")
 
+
+
+
+
+
+def remove_time_from_files():
+    # Read and clean extracted_titles.txt
+    with open("extracted_titles.txt", "r", encoding="utf-8") as file:
+        titles = file.readlines()
+
+    with open("extracted_titles.txt", "w", encoding="utf-8") as file:
+        for title in titles:
+            cleaned_title = title.replace("TIME", "")  # Remove the word "TIME"
+            file.write(cleaned_title)
+
+    # Read and clean extracted_links.txt
+    with open("extracted_links.txt", "r", encoding="utf-8") as file:
+        links = file.readlines()
+
+    with open("extracted_links.txt", "w", encoding="utf-8") as file:
+        for link in links:
+            cleaned_link = link.replace("TIME", "")  # Remove the word "TIME"
+            file.write(cleaned_link)
+
+    print("The word 'TIME' has been removed from both files.")
+
+# Call the function to clean the files
+remove_time_from_files()

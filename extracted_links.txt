@@ -328,7 +328,7 @@ AVPR: Aliens vs Predator – Requiem - /a/avpraliensvspredatorrequiem.htm
 Awake - /a/awake.htm
 Awakening, The - /a/awakening.htm
 Away We Go - /a/awaywego.htm
-TIME - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
+ - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
 Abandon
 [2002] [PG-13] – 4.4.4
 Abduction
@@ -987,7 +987,7 @@ Awakening, The
 [2012] [R] – 6.7.2
 Away We Go
 [2009] [R] – 8.2.6
-TIME
+
 Movie Reviews by Title | B
 Babe - /b/babe_1995__021.htm
 Babel - /b/babel.htm
@@ -1467,7 +1467,7 @@ Butterfly Effect, The - /b/butterflyeffect.htm
 Bye Bye, Love - /b/bye_bye_love_1995__225.htm
 Bye Bye Man, The - /b/byebyeman.htm
 By the Sea - /b/bythesea.htm
-TIME - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
+ - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
 Babe
 [1995] [G] – 0.2.1
 Babel
@@ -2424,7 +2424,7 @@ Bye Bye Man, The
 [2017] [PG-13] – 5.8.5
 By the Sea
 [2015] [R] – 8.3.6
-TIME
+
 Movie Reviews by Title | C
 Cabin Boy - /c/cabin_boy_1994__324.htm
 Cabin Fever - /c/cabinfever.htm
@@ -2792,7 +2792,7 @@ Cuties - /c/cuties-parents-guide-movie-review-rating.htm
 Cutthroat Island - /c/cutthroat_island_1995.htm
 Cutting Edge, The - /c/cutting_edge_1992__211.htm
 Cyrano - /c/cyrano-parents-guide-movie-review-rating.htm
-TIME - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
+ - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
 Cabin Boy
 [1994] [PG-13] – 3.2.4
 Cabin Fever
@@ -3525,7 +3525,7 @@ Cutting Edge, The
 [1992] [PG] – 2.1.1
 Cyrano
 [2021] [PG-13] – 3.5.3
-TIME
+
 Movie Reviews by Title | D
 Daddio - /d/daddio-parents-guide-movie-review-rating.htm
 Daddy Day Camp - /d/daddydaycamp.htm
@@ -3838,7 +3838,7 @@ Dunston Checks In - /d/dunston_checks_in_1996.htm
 Duplex - /d/duplex.htm
 Duplicity - /d/duplicity.htm
 Dylan Dog: Dead of Night - /d/dylandogdeadofnight.htm
-TIME - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
+ - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
 Daddio
 [2024] [R] – 8.2.10
 Daddy Day Camp
@@ -4461,7 +4461,7 @@ Duplicity
 [2009] [PG-13] – 5.3.4
 Dylan Dog: Dead of Night
 [2011] [PG-13] – 5.8.4
-TIME
+
 Movie Reviews by Title | E
 Eagle, The - /e/eagle.htm
 Eagle Eye - /e/eagleeye.htm
@@ -4633,7 +4633,7 @@ Eye of the Beholder - /e/eyeofthebeholder99.htm
 Eye of the Dolphin - /e/eyeofthedolphin.htm
 Eyes of My Mother, The - /e/eyesofmymother.htm
 Eyes of Tammy Faye, The - /e/eyes-of-tammy-faye-parents-guide-movie-review-rating.htm
-TIME - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
+ - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
 Eagle, The
 [2011] [PG-13] – 2.8.4
 Eagle Eye
@@ -4974,7 +4974,7 @@ Eyes of My Mother, The
 [2016] [R] – 6.8.0
 Eyes of Tammy Faye, The
 [2021] [PG-13] – 5.2.3
-TIME
+
 Movie Reviews by Title | F
 Fabelmans, The - /f/fabelmans-parents-guide-movie-review-rating.htm
 Fabulous Four, The - /f/fabulous-four-parents-guide-movie-review-rating.htm
@@ -5277,7 +5277,7 @@ Furious 7 - /f/furious7.htm
 Furry Vengeance - /f/furryvengeance.htm
 Fury - /f/fury.htm
 Fury Within, The - /f/fury_within_the_1998__143.htm
-TIME - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
+ - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
 Fabelmans, The
 [2022] [PG-13] – 3.4.5
 Fabulous Four, The
@@ -5880,7 +5880,7 @@ Fury
 [2014] [R] – 4.8.10
 Fury Within, The
 [1998] [PG-13] – 1.4.3
-TIME
+
 Movie Reviews by Title | G
 Gainsbourg: A Heroic Life - /g/gainsbourgaheroiclife.htm
 Galaxy Quest - /g/galaxy_quest_99.htm
@@ -6131,7 +6131,7 @@ Gunman, The - /g/gunman.htm
 Gunmen - /g/gunmen_1994__466.htm
 Gunpowder Milkshake - /g/gunpowder-milkshake-parents-guide-movie-review-rating.htm
 Guy Ritchie’s the Covenant - /g/guy-ritchies-the-covenant-parents-guide-movie-review-rating.htm
-TIME - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
+ - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
 Gainsbourg: A Heroic Life
 [2011] [NR] – 8.3.5
 Galaxy Quest
@@ -6630,7 +6630,7 @@ Gunpowder Milkshake
 [2021] [R] – 0.8.6
 Guy Ritchie’s the Covenant
 [2023] [R] – 1.7.9
-TIME
+
 Movie Reviews by Title | H
 Hackers - /h/hackers_1995__425.htm
 Hacksaw Ridge - /h/hacksawridge.htm
@@ -6951,7 +6951,7 @@ Hustlers - /h/hustlers-parents-guide-movie-review-rating.htm
 Hyde Park on Hudson - /h/hydeparkonhudson.htm
 Hyena - /h/hyena.htm
 Hypnotic - /h/hypnotic-parents-guide-movie-review-rating.htm
-TIME - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
+ - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
 Hackers
 [1995] [PG-13] – 4.2.5
 Hacksaw Ridge
@@ -7590,7 +7590,7 @@ Hyena
 [2015] [NR] – 9.10.10
 Hypnotic
 [2023] [R] – 3.6.4
-TIME
+
 Movie Reviews by Title | I
 I Am - /i/iam.htm
 I Am David - /i/iamdavid.htm
@@ -7804,7 +7804,7 @@ It’s Kind of a Funny Story - /i/itskindofafunnystory.htm
 It Takes Two - /i/it_takes_two_1995.htm
 I’ve Got Issues - /i/ive-got-issues-parents-guide-movie-review-rating.htm
 I’ve Loved You So Long - /i/ivelovedyousolong.htm
-TIME - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
+ - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
 I Am
 [2011] [NR] – 2.6.2
 I Am David
@@ -8229,7 +8229,7 @@ I’ve Got Issues
 [2019] [NR] – 3.4.5
 I’ve Loved You So Long
 [2008] [PG-13] – 4.5.4
-TIME
+
 Movie Reviews by Title | J
 Jack - /j/jack_1996__224.htm
 Jackal, The - /j/jackal_1997__197.htm
@@ -8370,7 +8370,7 @@ Just Mercy - /j/just-mercy-parents-guide-movie-review-rating.htm
 Just My Luck - /j/justmyluck.htm
 Just Visiting - /j/just_visiting_2001.htm
 Just Wright - /j/justwright.htm
-TIME - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
+ - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
 Jack
 [1996] [PG-13] – 2.2.4
 Jackal, The
@@ -8649,7 +8649,7 @@ Just Visiting
 [2001] [PG-13] – 2.4.3
 Just Wright
 [2010] [PG] – 4.1.3
-TIME
+
 Movie Reviews by Title | K
 Kalifornia - /k/kalifornia_1993__6105.htm
 Kandahar - /k/kandahar-parents-guide-movie-review-rating.htm
@@ -8750,7 +8750,7 @@ Kung Fu Panda 2 - /k/kungfupanda2.htm
 Kung Fu Panda 3 - /k/kungfupanda3.htm
 Kung Fu Panda 4 - /k/kung-fu-panda-4-parents-guide-movie-review-rating.htm
 Kung Pow!: Enter the Fist - /k/kungpow_2002.htm
-TIME - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
+ - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
 Kalifornia
 [1993] [R] – 6.10.5
 Kandahar
@@ -8949,7 +8949,7 @@ Kung Fu Panda 4
 [2024] [PG] – 0.3.2
 Kung Pow!: Enter the Fist
 [2002] [PG-13] – 4.6.3
-TIME
+
 Movie Reviews by Title | L
 Labor Day - /l/laborday.htm
 Labyrinth of Lies - /l/labyrinthoflies.htm
@@ -9243,7 +9243,7 @@ Lucy - /l/lucy.htm
 Lucy in the Sky - /l/lucy-in-the-sky-parents-guide-movie-review-rating.htm
 Lust, Caution - /l/lustcaution.htm
 Luther: The Fallen Sun - /l/luther-the-fallen-sun-parents-guide-movie-review-rating.htm
-TIME - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
+ - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
 Labor Day
 [2014] [PG-13] – 5.5.2
 Labyrinth of Lies
@@ -9828,7 +9828,7 @@ Lust, Caution
 [2007] [NC-17] – 10.7.5
 Luther: The Fallen Sun
 [2023] [R] – 4.7.8
-TIME
+
 Movie Reviews by Title | M
 Ma - /m/ma-parents-guide-movie-review-rating.htm
 Mac - /m/mac_1993__648.htm
@@ -10274,7 +10274,7 @@ Mystic River - /m/mysticriver.htm
 My Summer of Love - /m/mysummeroflove.htm
 My Super Ex-Girlfriend - /m/mysuperexgirlfriend.htm
 Myth of Fingerprints, The - /m/myth_of_fingerprints_the_1997_.htm
-TIME - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
+ - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
 Ma
 [2019] [R] – 6.7.8
 Mac
@@ -11163,7 +11163,7 @@ My Super Ex-Girlfriend
 [2006] [PG-13] – 7.6.4
 Myth of Fingerprints, The
 [1997] [R] – 6.2.5
-TIME
+
 Movie Reviews by Title | N
 Nacho Libre - /n/nacholibre.htm
 Naked Gun 33 1/3: The Final Insult - /n/naked_gun_33_13.htm
@@ -11319,7 +11319,7 @@ Nut Job, The - /n/nutjob.htm
 Nut Job 2, The: Nutty by Nature - /n/nutjob2nuttybynature.htm
 Nutty Professor, The - /n/nutty_professor_1996__236.htm
 Nutty Professor II: The Klumps - /n/nutty_professor_ii_the_klumps.htm
-TIME - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
+ - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
 Nacho Libre
 [2006] [PG] – 3.4.3
 Naked Gun 33 1/3: The Final Insult
@@ -11628,7 +11628,7 @@ Nutty Professor, The
 [1996] [PG-13] – 2.3.6
 Nutty Professor II: The Klumps
 [2000] [PG-13] – 7.5.6
-TIME
+
 Movie Reviews by Title | O
 O - /o/o_2001.htm
 Oath, The - /o/oath-parents-guide-movie-review-rating.htm
@@ -11757,7 +11757,7 @@ Over Her Dead Body - /o/overherdeadbody.htm
 Overlord - /o/overlord-parents-guide-movie-review-rating.htm
 Over the Hedge - /o/overthehedge.htm
 Over the Moon - /o/over-the-moon-parents-guide-movie-review-rating.htm
-TIME - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
+ - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
 O
 [2001] [R] – 6.6.9
 Oath, The
@@ -12012,7 +12012,7 @@ Over the Hedge
 [2006] [PG] – 2.3.2
 Over the Moon
 [2020] [PG] – 1.3.1
-TIME
+
 Movie Reviews by Title | P
 Pacific Rim - /p/pacificrim.htm
 Pacific Rim: Uprising - /p/pacificrimuprising.htm
@@ -12310,7 +12310,7 @@ Pusher - /p/pusher.htm
 Pushing Tin - /p/pushing_tin_1999__536.htm
 Puss in Boots - /p/pussinboots.htm
 Puss in Boots: The Last Wish - /p/puss-in-boots-the-last-wish-parents-guide-movie-review-rating.htm
-TIME - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
+ - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
 Pacific Rim
 [2013] [PG-13] – 2.7.4
 Pacific Rim: Uprising
@@ -12903,7 +12903,7 @@ Puss in Boots
 [2011] [PG] – 2.4.3
 Puss in Boots: The Last Wish
 [2022] [PG] – 1.3.3
-TIME
+
 Movie Reviews by Title | Q
 Quantum of Solace - /q/quantumofsolace.htm
 Quarantine - /q/quarantine.htm
@@ -12927,7 +12927,7 @@ Quiet Place: Day One, A - /q/quiet-place-day-one-parents-guide-movie-review-rati
 Quiet Place Part II, A - /q/quiet-place-part-ii-parents-guide-movie-review-rating.htm
 Quills - /q/quills_2000.htm
 Quiz Lady - /q/quiz-lady-parents-guide-movie-review-rating.htm
-TIME - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
+ - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
 Quantum of Solace
 [2008] [PG-13] – 5.7.4
 Quarantine
@@ -12972,7 +12972,7 @@ Quills
 [2000] [R] – 10.10.7
 Quiz Lady
 [2023] [R] – 3.3.5
-TIME
+
 Movie Reviews by Title | R
 Rabbit Hole - /r/rabbithole.htm
 Race - /r/race.htm
@@ -13214,7 +13214,7 @@ Rush Hour 2 - /r/rush_hour_2_2001.htm
 Rush Hour 3 - /r/rushhour3.htm
 Rushmore - /r/rushmore_1998__336.htm
 Rust and Bone - /r/rustandbone.htm
-TIME - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
+ - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
 Rabbit Hole
 [2010] [PG-13] – 2.4.5
 Race
@@ -13695,7 +13695,7 @@ Rushmore
 [1998] [R] – 3.3.6
 Rust and Bone
 [2012] [R] – 8.6.6
-TIME
+
 Movie Reviews by Title | S
 Sabotage - /s/sabotage.htm
 Safe - /s/safe.htm
@@ -14314,7 +14314,7 @@ Sylvie’s Love - /s/sylvies-love-parents-guide-movie-review-rating.htm
 Synchronic - /s/synchronic-parents-guide-movie-review-rating.htm
 Synchronicity - /s/synchronicity.htm
 Synecdoche, New York - /s/synecdochenewyork.htm
-TIME - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
+ - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
 Sabotage
 [2014] [R] – 7.9.10
 Safe
@@ -15549,7 +15549,7 @@ Synchronicity
 [2016] [R] – 5.4.5
 Synecdoche, New York
 [2008] [R] – 8.6.7
-TIME
+
 Movie Reviews by Title | T
 Table 19 - /t/table19.htm
 Tadpole - /t/tadpole.htm
@@ -15917,7 +15917,7 @@ Tyler Perry’s Madea’s Big Happy Family - /t/tylerperrysmadeasbighappyfamily.
 Tyler Perry’s Temptation - /t/tylerperrystemptation.htm
 Tyler Perry’s The Family That Preys - /t/tylerperrysthefamilythatpreys.htm
 Tyler Perry’s Why Did I Get Married Too? - /t/tylerperryswhydidigetmarriedtoo.htm
-TIME - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
+ - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
 Table 19
 [2017] [PG-13] – 5.2.5
 Tadpole
@@ -16650,7 +16650,7 @@ Tyler Perry’s The Family That Preys
 [2008] [PG-13] – 4.4.3
 Tyler Perry’s Why Did I Get Married Too?
 [2010] [PG-13] – 5.4.4
-TIME
+
 Movie Reviews by Title | U
 U-571 - /u/u571_2000.htm
 Uglies - /u/uglies-parents-guide-movie-review-rating.htm
@@ -16735,7 +16735,7 @@ Us - /u/us-parents-guide-movie-review-rating.htm
 Used People - /u/used_people_1993__315.htm
 U.S. Marshals - /u/us_marshals_1998__166.htm
 Usual Suspects, The - /u/usual_suspects_1995__279.htm
-TIME - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
+ - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
 U-571
 [2000] [PG-13] – 1.6.4
 Uglies
@@ -16902,7 +16902,7 @@ U.S. Marshals
 [1998] [PG-13] – 1.6.6
 Usual Suspects, The
 [1995] [R] – 2.7.9
-TIME
+
 Movie Reviews by Title | V
 Vacancy - /v/vacancy.htm
 Vacation - /v/vacation.htm
@@ -16963,7 +16963,7 @@ Volver - /v/volver.htm
 Vow, The - /v/vow.htm
 Vox Lux - /v/vox-lux-parents-guide-movie-review-rating.htm
 Voyagers - /v/voyagers-parents-guide-movie-review-rating.htm
-TIME - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
+ - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
 Vacancy
 [2007] [R] – 5.8.7
 Vacation
@@ -17082,7 +17082,7 @@ Vox Lux
 [2018] [R] – 4.6.6
 Voyagers
 [2021] [PG-13] – 4.6.1
-TIME
+
 Movie Reviews by Title | W
 W. - /w/w.htm
 Wackness, The - /w/wackness.htm
@@ -17349,7 +17349,7 @@ Wristcutters: A Love Story - /w/wristcuttersalovestory.htm
 Wrongfully Accused - /w/wrongfully_accused_1998__443.htm
 Wrong Missy, The - /w/wrong-missy-parents-guide-movie-review-rating.htm
 Wrong Turn - /w/wrongturn.htm
-TIME - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
+ - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
 W.
 [2008] [PG-13] – 2.5.5
 Wackness, The
@@ -17880,7 +17880,7 @@ Wrong Missy, The
 [2020] [TV-MA] – 7.4.10
 Wrong Turn
 [2003] [R] – 3.10.5
-TIME
+
 Movie Reviews by Title | X
 X - /x/x-parents-guide-movie-review-rating.htm
 X-Files, The - /x/xfiles_1998__163.htm
@@ -17894,7 +17894,7 @@ X-Men: The Last Stand - /x/xmenthelaststand.htm
 X2: X-Men United - /x/x2xmenunited.htm
 XXX - /x/xxx.htm
 xXx: Return of Xander Cage - /x/xxxreturnofxandercage.htm
-TIME - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
+ - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
 X
 [2022] [R] – 9.8.6
 X-Files, The
@@ -17919,7 +17919,7 @@ XXX
 [2002] [PG-13] – 4.5.4
 xXx: Return of Xander Cage
 [2017] [PG-13] – 4.6.5
-TIME
+
 Movie Reviews by Title | Y
 Year of the Comet - /y/year_of_the_comet_1992__330.htm
 Year of the Dog - /y/yearofthedog.htm
@@ -17959,7 +17959,7 @@ Youth Without Youth - /y/youthwithoutyouth.htm
 You’ve Got Mail - /y/youve_got_mail_1998__203.htm
 You Were Never Really Here - /y/you-were-never-really-here-parents-guide-movie-review-rating.htm
 Y2K - /y/y2k-parents-guide-movie-review-rating.htm
-TIME - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
+ - http://content.time.com/time/specials/packages/article/0,28804,1949762_1949772_1950048,00.html
 Year of the Comet
 [1992] [PG-13] – 3.3.0
 Year of the Dog
@@ -18036,7 +18036,7 @@ You Were Never Really Here
 [2018] [R] – 5.8.7
 Y2K
 [2024] [R] – 6.8.10
-TIME
+
 Movie Reviews by Title | Z
 Zack and Miri Make a Porno - /z/zackandmirimakeaporno.htm
 Zack Snyder’s Justice League - /z/zack-snyders-justice-league-parents-guide-movie-review-rating.htm
