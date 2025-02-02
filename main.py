@@ -1,24 +1,12 @@
 import window
-import sqlite3
+import titles  # Import the Python file that contains the movies list
 
-# Connect to the SQLite database
-conn = sqlite3.connect("titles.db")
-cursor = conn.cursor()
-
-# Query to get all movie titles from the database
-cursor.execute("SELECT title FROM movies")
-
-# Fetch all results
-movies = cursor.fetchall()
-
-# Print all movie titles
-if movies:
-    print("Movie Titles in the Database:")
-    for movie in movies:
-        print(movie[0])  # Each 'movie' is a tuple, so we print the title which is at index 0
+# Extract the movie titles from the list
+if hasattr(titles, "movies") and isinstance(titles.movies, list):
+    print("Movie Titles:")
+    for movie in titles.movies:
+        print(movie["title"])  # Access the 'title' field in each dictionary
 else:
-    print("No movies found in the database.")
+    print("No movies found or incorrect data format.")
 
-# Close the database connection
-conn.close()
 
