@@ -1,47 +1,24 @@
-import requests
-from bs4 import BeautifulSoup
-import re
+import window
+import sqlite3
 
-# Loop through letters B to Z
-for letter in "bcdefghijklmnopqrstuvwxyz":
-    url = f"https://kids-in-mind.com/{letter}.htm"
-    print(f"Fetching data from: {url}")
+# Connect to the SQLite database
+conn = sqlite3.connect("titles.db")
+cursor = conn.cursor()
 
-    # Fetch the content of the webpage
-    response = requests.get(url)
+# Query to get all movie titles from the database
+cursor.execute("SELECT title FROM movies")
 
-    # Check if the request was successful
-    if response.status_code == 200:
-        soup = BeautifulSoup(response.text, "html.parser")
+# Fetch all results
+movies = cursor.fetchall()
 
-        # Find the div with the relevant class
-        target_div = soup.find("div", class_="et_pb_section et_pb_section_0 et_section_regular")
+# Print all movie titles
+if movies:
+    print("Movie Titles in the Database:")
+    for movie in movies:
+        print(movie[0])  # Each 'movie' is a tuple, so we print the title which is at index 0
+else:
+    print("No movies found in the database.")
 
-        if target_div:
-            content = target_div.prettify()
+# Close the database connection
+conn.close()
 
-            # Regex pattern to capture movie list format
-            pattern = re.compile(
-                r'(<a href="[^"]+" rel="noopener(?: noreferrer)?" target="_blank">\s*[\s\S]+?</a>\s*\[[0-9]{4}\] \[[A-Z0-9-]+\] – \d+\.\d+\.\d+\s*<br/?>)'
-            )
-
-            matches = pattern.findall(content)
-
-            if matches:
-                # Print the extracted movies
-                for match in matches:
-                    print(match + "\n")
-
-                # Save the extracted movies to a file
-                with open("filtered_movies.html", "a", encoding="utf-8") as f:
-                    for match in matches:
-                        f.write(match + "\n\n")
-
-            else:
-                print(f"No matching movie lines found for letter {letter}.")
-        else:
-            print(f"Div not found for letter {letter}.")
-    else:
-        print(f"Failed to retrieve {url}. Status code: {response.status_code}")
-
-print("\nFiltered content saved to filtered_movies.html")

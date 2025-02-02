@@ -414,7 +414,7 @@ Annabelle Comes Home
 Annabelle: Creation
 [2017] [R] – 1.7.2
 Anna Karenina
-[2012] [ R] – 6.6.3
+[2012] [R] – 6.6.3
 Annapolis
 [2006] [PG-13] – 3.5.4
 Annette
@@ -657,6 +657,8 @@ Awakening, The
 [2012] [R] – 6.7.2
 Away We Go
 [2009] [R] – 8.2.6
+A.X.L
+[2018] [PG] – 2.5.1
 
 -$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | B
 Babe
@@ -1198,7 +1200,7 @@ Blair Witch Project, The
 Blame It on the Bellboy
 [1992] [PG-13] – 1.5.4
 Blancanieves
-[2013] PG-13] – 4.6.0
+[2013] [PG-13] – 4.6.0
 Blank Check
 [1994] [PG] – 0.3.2
 Blankman
@@ -1615,6 +1617,8 @@ Bye Bye Man, The
 [2017] [PG-13] – 5.8.5
 By the Sea
 [2015] [R] – 8.3.6
+Byzantium
+[2013] [R] – 7.8.5
 
 -$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | C
 Cabin Boy
@@ -1654,7 +1658,7 @@ Campaign, The
 Camp Nowhere
 [1994] [PG] – 2.2.1
 Candy Cane Lane
-– 2.2.3
+[2023] [PG] – 2.2.3
 Candyman
 [1992] [R] – 4.9.4
 Candyman
@@ -2217,8 +2221,8 @@ Courageous
 [2011] [PG-13] – 1.5.1
 Courage Under Fire
 [1996] [R] – 0.7.7
-Courier, The
-(aka Ironbark) [2020] [PG-13] – 4.5.5
+Courier, The (aka Ironbark)
+[2020] [PG-13] – 4.5.5
 Covenant, The
 [2006] [PG-13] – 5.6.4
 Cowboys & Aliens
@@ -2349,6 +2353,8 @@ Cutting Edge, The
 [1992] [PG] – 2.1.1
 Cyrano
 [2021] [PG-13] – 3.5.3
+Cyrus
+[2010] [R] – 6.3.7
 
 -$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | D
 Daddio
@@ -2973,6 +2979,8 @@ Duplicity
 [2009] [PG-13] – 5.3.4
 Dylan Dog: Dead of Night
 [2011] [PG-13] – 5.8.4
+Dysfunktional Family
+[2003] [R] – 7.1.10
 
 -$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | E
 Eagle, The
@@ -3315,6 +3323,8 @@ Eyes of My Mother, The
 [2016] [R] – 6.8.0
 Eyes of Tammy Faye, The
 [2021] [PG-13] – 5.2.3
+Eyes Wide Shut
+[1999] [R] – 10.2.7
 
 -$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | F
 Fabelmans, The
@@ -3919,6 +3929,8 @@ Fury
 [2014] [R] – 4.8.10
 Fury Within, The
 [1998] [PG-13] – 1.4.3
+Future, The
+[2011] [R] – 6.1.5
 
 -$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | G
 Gainsbourg: A Heroic Life
@@ -4028,7 +4040,7 @@ Ghost in the Shell 2: Innocence
 Ghost Rider
 [2007] [PG-13] – 3.7.4
 Ghost Rider: Spirit of Vengeance
-[2012] PG-13] – 2.7.5
+[2012] [PG-13] – 2.7.5
 Ghost Ship
 [2002] [R] – 5.9.7
 Ghosts of Girlfriends Past
@@ -4419,6 +4431,8 @@ Gunpowder Milkshake
 [2021] [R] – 0.8.6
 Guy Ritchie’s the Covenant
 [2023] [R] – 1.7.9
+Guy Thing, A
+[2003] [PG-13] – 4.3.5
 
 -$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | H
 Hackers
@@ -4468,7 +4482,7 @@ Hanging Up
 Hangover, The
 [2009] [R] – 10.7.10
 Hangover Part II, The
-[2011]                [R] – 10.7.10
+[2011] [R] – 10.7.10
 Hangover Part III, The
 [2013] [R] – 7.7.10
 Hanna
@@ -4621,8 +4635,8 @@ Heavy Trip
 [2018] [NR] – 6.4.6
 Heavyweights
 [1995] [PG] – 1.2.2
-Hedgehog. The
-(Le Hérisson) [2011] [NR] – 1.5.2
+Hedgehog. The (Le Hérisson)
+[2011] [NR] – 1.5.2
 Hedwig and the Angry Inch
 [2001] [R] – 8.4.6
 He Got Game
@@ -5059,6 +5073,8 @@ Hyena
 [2015] [NR] – 9.10.10
 Hypnotic
 [2023] [R] – 3.6.4
+Hysteria
+[2012] [R] – 7.3.4
 
 -$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | I
 I Am
@@ -5149,8 +5165,8 @@ I’ll Sleep When I’m Dead
 [2004] [R] – 6.8.10
 Illusionist, The
 [2006] [PG-13] – 5.6.0
-Illusionist, The
-(L’illusionniste) [2010] [PG] – 1.2.0
+Illusionist, The (L’illusionniste)
+[2010] [PG] – 1.2.0
 I Love Trouble
 [1994] [PG] – 3.4.2
 I Love You, Beth Cooper
@@ -5485,6 +5501,8 @@ I’ve Got Issues
 [2019] [NR] – 3.4.5
 I’ve Loved You So Long
 [2008] [PG-13] – 4.5.4
+I Want You Back
+[2022] [R] – 6.3.6
 
 -$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | J
 Jack
@@ -5765,6 +5783,8 @@ Just Visiting
 [2001] [PG-13] – 2.4.3
 Just Wright
 [2010] [PG] – 4.1.3
+Juwanna Mann
+[2002] [PG-13] – 4.2.5
 
 -$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | K
 Kalifornia
@@ -5965,6 +5985,8 @@ Kung Fu Panda 4
 [2024] [PG] – 0.3.2
 Kung Pow!: Enter the Fist
 [2002] [PG-13] – 4.6.3
+Kurt & Courtney
+[1998] [R] – 5.1.7
 
 -$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | L
 Labor Day
@@ -6447,8 +6469,8 @@ Lost Daughter, The
 [2021] [R] – 6.4.9
 Lost & Found
 [1999] [PG-13] – 3.4.4
-Lost Bullet
-(Balle Perdue) [2020] [TV-MA] – 1.7.9
+Lost Bullet (Balle Perdue)
+[2020] [TV-MA] – 1.7.9
 Lost Girls
 [2020] [R] – 3.4.7
 Lost Husband, The
@@ -6485,8 +6507,8 @@ Love at First Sight
 [2023] [PG-13] – 2.1.5
 Lovebirds, The
 [2020] [R] – 6.5.10
-Love Crime
-(Crime d’amour) [2011] [R] – 6.6.5
+Love Crime (Crime d’amour)
+[2011] [R] – 6.6.5
 Love Don’t Cost a Thing
 [2003] [PG-13] – 5.3.4
 Love Field
@@ -6551,6 +6573,8 @@ Lust, Caution
 [2007] [NC-17] – 10.7.5
 Luther: The Fallen Sun
 [2023] [R] – 4.7.8
+Lyle, Lyle, Crocodile
+[2022] [PG] – 1.3.1
 
 -$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | M
 Ma
@@ -7441,6 +7465,8 @@ My Super Ex-Girlfriend
 [2006] [PG-13] – 7.6.4
 Myth of Fingerprints, The
 [1997] [R] – 6.2.5
+My Week with Marilyn
+[2011] [R] – 5.4.5
 
 -$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | N
 Nacho Libre
@@ -7716,7 +7742,7 @@ Notorious Bettie Page, The
 Notting Hill
 [1999] [PG-13] – 4.1.5
 November Man, The
-[2014] [ R] – 7.7.7
+[2014] [R] – 7.7.7
 Novitiate
 [2017] [R] – 7.5.5
 Now and Then
@@ -7751,6 +7777,8 @@ Nutty Professor, The
 [1996] [PG-13] – 2.3.6
 Nutty Professor II: The Klumps
 [2000] [PG-13] – 7.5.6
+Nyad
+[2023] [PG-13] – 4.4.5
 
 -$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | O
 O
@@ -8007,6 +8035,8 @@ Over the Hedge
 [2006] [PG] – 2.3.2
 Over the Moon
 [2020] [PG] – 1.3.1
+Oz The Great and Powerful
+[2013] [PG] – 2.4.2
 
 -$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | P
 Pacific Rim
@@ -8365,8 +8395,8 @@ Pocahontas
 [1995] [G] – 1.3.0
 Poetic Justice
 [1993] [R] – 5.6.9
-Point Blank
-[À bout portant] [2011] [R] – 4.8.5
+Point Blank (À bout portant)
+[2011] [R] – 4.8.5
 Point Break
 [2015] [PG-13] – 4.6.5
 Point of No Return
@@ -8601,6 +8631,8 @@ Puss in Boots
 [2011] [PG] – 2.4.3
 Puss in Boots: The Last Wish
 [2022] [PG] – 1.3.3
+Puzzle
+[2018] [R] – 5.2.5
 
 -$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | Q
 Quantum of Solace
@@ -8647,6 +8679,8 @@ Quills
 [2000] [R] – 10.10.7
 Quiz Lady
 [2023] [R] – 3.3.5
+Quiz Show 
+[1994] [PG-13] – 1.0.5
 
 -$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | R
 Rabbit Hole
@@ -9129,6 +9163,8 @@ Rushmore
 [1998] [R] – 3.3.6
 Rust and Bone
 [2012] [R] – 8.6.6
+RV
+[2006] [PG] – 2.3.3
 
 -$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | S
 Sabotage
@@ -9512,7 +9548,7 @@ She’s the Man
 Shine
 [2018] [R] – 4.3.7
 Shine a Light
-[2008] PG-13] – 3.2.5
+[2008] [PG-13] – 3.2.5
 Shipping News, The
 [2001] [R] – 7.6.5
 Shirley
@@ -10365,6 +10401,8 @@ Synchronicity
 [2016] [R] – 5.4.5
 Synecdoche, New York
 [2008] [R] – 8.6.7
+Syriana
+[2005] [R] – 1.8.6
 
 -$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | T
 Table 19
@@ -11099,6 +11137,8 @@ Tyler Perry’s The Family That Preys
 [2008] [PG-13] – 4.4.3
 Tyler Perry’s Why Did I Get Married Too?
 [2010] [PG-13] – 5.4.4
+Tyson
+[2009] [R] – 4.5.6
 
 -$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | U
 U-571
@@ -11267,6 +11307,8 @@ U.S. Marshals
 [1998] [PG-13] – 1.6.6
 Usual Suspects, The
 [1995] [R] – 2.7.9
+U Turn
+[1997] [R] – 7.8.8
 
 -$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | V
 Vacancy
@@ -11344,7 +11386,7 @@ V for Vendetta
 Vice
 [2018] [R] – 4.6.7
 Vicky Cristina Barcelona
-[2008] [PG-13]- 6.4.4
+[2008] [PG-13] - 6.4.4
 Victor Frankenstein
 [2015] [PG-13] – 2.6.3
 Victoria & Abdul
@@ -11387,6 +11429,8 @@ Vox Lux
 [2018] [R] – 4.6.6
 Voyagers
 [2021] [PG-13] – 4.6.1
+Voyeurs, The
+[2021] [R] – 9.5.7
 
 -$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | W
 W.
@@ -11418,7 +11462,7 @@ Walking Across Egypt
 Walking Dead, The
 [1995] [R] – 4.7.10
 Walking Tall
-[2004] [PG-13] –                5.7.5
+[2004] [PG-13] – 5.7.5
 Walking with Dinosaurs
 [2013] [PG] – 1.4.2
 Walk in the Clouds, A
@@ -11473,8 +11517,8 @@ War Room
 [2015] [PG] – 2.3.1
 War with Grandpa, The
 [2020] [PG] – 2.4.4
-Wasp Network, The
-(La Red Avispa) [2019] [TV-MA] – 6.5.5
+Wasp Network, The (La Red Avispa)
+[2019] [TV-MA] – 6.5.5
 Watch, The
 [2012] [R] – 8.8.10
 Watcher
@@ -11622,7 +11666,7 @@ When Do We Eat?
 When In Rome
 [2010] [PG-13] – 6.3.4
 When the Bough Breaks
-[2016] PG-13] – 6.6.3
+[2016] [PG-13] – 6.6.3
 When the Game Stands Tall
 [2014] [PG] – 1.3.2
 Where Angels Fear to Tread
@@ -11919,6 +11963,8 @@ Wrong Missy, The
 [2020] [TV-MA] – 7.4.10
 Wrong Turn
 [2003] [R] – 3.10.5
+Wyatt Earp
+[1994] [PG-13] – 4.7.5
 
 -$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | X
 X
@@ -11945,6 +11991,8 @@ XXX
 [2002] [PG-13] – 4.5.4
 xXx: Return of Xander Cage
 [2017] [PG-13] – 4.6.5
+XXX: State of the Union
+[2005] [PG-13] – 4.7.5
 
 -$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | Y
 Year of the Comet
@@ -12023,6 +12071,8 @@ You Were Never Really Here
 [2018] [R] – 5.8.7
 Y2K
 [2024] [R] – 6.8.10
+Yu-Gi-Oh!: The Movie
+[2004] [PG] – 1.4.0
 
 -$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-Movie Reviews by Title | Z
 Zack and Miri Make a Porno
@@ -12063,3 +12113,5 @@ Zoolander 2
 [2016] [PG-13] – 6.6.5
 Zoom
 [2006] [PG] – 2.3.1
+Zootopia
+[2016] [PG] – 1.3.2
